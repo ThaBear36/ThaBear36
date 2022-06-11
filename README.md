@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThaBear36
+- 👋 Hi, I’m @Brandon Takura
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning html, css, javascript, and python
 - 💞️ I’m looking to collaborate on web based projects
